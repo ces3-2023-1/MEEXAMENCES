@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone ="yes" ?>
+
+<!DOCTYPE bib SYSTEM "Examen.dtd">
+
+<bib>
+    <!-- Este es un comentario
+    -->
+    <libro ano="2000" codigo_pais="ESP">
+        <titulo>TCP/IP Illustrated</titulo>
+        <editorial>Addison-Wesley</editorial>
+        <precio>65.95</precio>
+    </libro>
+
+
+    <libro ano="1994" codigo_pais="ESP">
+        <titulo>TCP/IP Illustrated</titulo>
+
+        <autores>
+            <autor cedula="9721289"
+                   imagen="https://crearmiempresa.es/wp-content/uploads/2015/07/frases-de-steve-jobs.jpg">
+                <apellido>stevens</apellido>
+                <nombre>W.</nombre>
+            </autor>
+        </autores>
+
+        <editorial>Addison-Wesley</editorial>
+        <precio>65.95</precio>
+    </libro>
+
+    <libro ano="1992" codigo_pais="ESP">
+        <titulo>Advanced Programming for Unix environment</titulo>
+        <autores>
+            <autor cedula="3631289">
+                <apellido>stevens</apellido>
+                <nombre>W.</nombre>
+            </autor>
+        </autores>
+        <editorial>Addison-Wesley</editorial>
+        <precio>65.95</precio>
+    </libro>
+
+    <libro ano="2000" codigo_pais="ESP">
+        <titulo>Data on the Web</titulo>
+        <autores>
+            <autor cedula="10395673456">
+                <apellido>abiteboul</apellido>
+                <nombre>Serge</nombre>
+            </autor>
+            <autor cedula="54829476">
+                <apellido>buneman</apellido>
+                <nombre>Peter</nombre>
+            </autor>
+            <autor cedula="92473592">
+                <apellido>suciu</apellido>
+                <nombre>Dan</nombre>
+            </autor>
+        </autores>
+        <editorial>Morgan Kaufmann editorials</editorial>
+        <precio>39.95</precio>
+    </libro>
+
+    <libro ano="1999" codigo_pais="ESP">
+        <titulo>Economics of Technology for Digital TV</titulo>
+        <autores>
+            <autor cedula="4982759">
+                <apellido>gerbarg</apellido>
+                <nombre>Darcy</nombre>
+            </autor>
+        </autores>
+        <editorial>Kluwer Academic editorials</editorial>
+        <precio>129.95</precio>
+    </libro>
+</bib>
